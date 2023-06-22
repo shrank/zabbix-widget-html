@@ -1,5 +1,5 @@
 <?php 
-namespace Modules\HtmlWidget\Includes; 
+namespace Modules\ShrankHtmlWidget\Includes; 
 use Zabbix\Widgets\CWidgetForm; 
 use Zabbix\Widgets\Fields\CWidgetFieldTextArea; 
 class WidgetForm extends CWidgetForm {

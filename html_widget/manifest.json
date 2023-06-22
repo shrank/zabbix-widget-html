@@ -1,13 +1,13 @@
 {     
   "manifest_version": 2.0,
-  "id": "html_widget",
+  "id": "shrank_html_widget",
   "type": "widget",
   "name": "HTML",
-  "namespace": "HtmlWidget",
+  "namespace": "ShrankHtmlWidget",
   "version": "1.0",
   "author": "shrank",
   "actions": {
-    "widget.html_widget.view": {
+    "widget.shrank_html_widget.view": {
       "class": "WidgetView"
     }
   }

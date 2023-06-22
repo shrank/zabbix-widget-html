@@ -8,7 +8,7 @@
 
  (new CWidgetFormView($data))
     ->addField(
-        new CWidgetFieldTextArea($data['fields']['content'])
+        new CWidgetFieldTextAreaView($data['fields']['content'])
     )
     ->show();
 ?>

@@ -4,7 +4,7 @@ Simple Widget that lets you put arbitrary HTML code on a Zabbix Dashboard
 Tested on Zabbix 6.4.0
 
 ## Install
-The `html_wiget` directory needs to go into the `modules` directory of your zabbix web frontend server:
+The `html_widget` directory needs to go into the `modules` directory of your zabbix web frontend server:
 ```
 wget https://github.com/shrank/zabbix-widget-html/archive/refs/tags/v1.0.zip
 unzip v1.0.zip

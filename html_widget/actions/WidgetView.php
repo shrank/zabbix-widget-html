@@ -1,5 +1,5 @@
 <?php
-namespace Modules\ShrankHtmlWidget\Actions;
+namespace Widgets\ShrankHtmlWidget\Actions;
 use CControllerDashboardWidgetView,
     CControllerResponseData; 
 class WidgetView extends CControllerDashboardWidgetView {

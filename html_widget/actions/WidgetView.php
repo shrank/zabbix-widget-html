@@ -13,3 +13,4 @@ class WidgetView extends CControllerDashboardWidgetView {
         ]));
     }
 }
+?>

@@ -10,3 +10,4 @@ class WidgetForm extends CWidgetForm {
             );
     }
 }
+?>

@@ -4,7 +4,6 @@
   "type": "widget",
   "name": "HTML",
   "namespace": "ShrankHtmlWidget",
-  "description": "Displays plain html content.",
   "version": "1.0",
   "author": "shrank",
   "actions": {
